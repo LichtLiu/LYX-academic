@@ -17,26 +17,101 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+## Work Experience
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **2020.02.04 - Present**
+    * **Personal WordPress Website**
+        * **Title:** Love Drinking Coffee X Coffee Programming
+        * **Responsibilities:**
+            * Researched SEO, WordPress website development, affiliate marketing, and content marketing techniques.
+            * Shared coffee knowledge and personal programming learning experiences.
+        * **Website link:** https://lovedrinkcafe.com
+* **2022.07.01 - 2022.12.31**
+    * **Information Center Maintenance and Operation**
+        * **Responsibilities:**
+            * Participated in air force data center operations, learning NetApp storage technology, Checkpoint firewall technology, F5 load balancing technology, and VMware virtualization technology.
+        * **Skills:**
+            * NetApp storage technology
+            * Checkpoint firewall technology
+            * F5 load balancing technology
+            * VMware virtualization technology
+* **2023.01.01 - Present**
+    * **Web System Maintenance and Operation**
+        * **Responsibilities:**
+            * Maintained air force service systems (personnel evaluation system, military personnel counseling system, etc.).
+            * Participated in the construction of air force project service systems, helping to set up "software development life cycle (SDLC) related system tools" and "video streaming and other service systems".
+        * **Skills:**
+            * Software development system tools: GitLab, AVC, Visual Studio stress testing tools, APIM.
+            * Service system setup:
+                * Video streaming platform
+                * Vaidio artificial intelligence security system
+                * License plate recognition system
+                * Knowledge base and search engine
+            * Web development frameworks: ASP.NET Web Form, ASP.NET MVC website development.
+            * Database technologies: Microsoft SQL Server, Oracle Database.
+            * Development and deployment environments: Windows Server 2016, Red Hat Enterprise Linux 9.
+            * Web servers: IIS, Apache, tomcat.
+
+Information Certifications
+======
+## Information Certifications
+* Introduction to Artificial Intelligence (AI)[https://www.coursera.org/account/accomplishments/certificate/D63RJZRDNGC4]
+* EC-Council Certified Incident Handler (ECIH)
+* Cisco Certified Network Associate (CCNA)
+* Django 2.2 & Python | The Ultimate Web Development Bootcamp[https://www.udemy.com/certificate/UC-DK32X8UO/]
+
+Other Certifications
+======
+## Other Certifications
+* **TOEIC:** 830 points
+* **JLPT N4:**
+* **PMA:** Certified Project Assistant, awarded by the Project Management Association of Taiwan
+* **Procurement Certification**
+
+
+
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Skills
+* Web development
+    * Web frameworks:
+        * Django
+        * ASP.NET Web Form
+        * ASP.NET MVC
+    * Front-end:
+        * HTML
+        * CSS
+        * JavaScript
+    * Back-end:
+        * Python
+        * SQL
+    * Other:
+        * Git
 
-Publications
+* Database
+    * MySQL Database
+    * Microsoft SQL Server
+    * Oracle Database
+* Network
+    * CCNA
+    * NetApp storage
+    * Checkpoint firewall
+    * F5 load balancing
+    * VMware virtualization
+* Security
+    * ECIH
+* Project management
+    * PMA
+* Language
+    * Japanese (JLPT N4)
+* Other
+    * SEO
+    * WordPress
+    * Content marketing
+    * Affiliate marketing
+
+<!--Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -56,4 +131,4 @@ Teaching
 
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams`` -->
