@@ -21,7 +21,7 @@ Work experience
 
 * **2020.02.04 - Present**
     * **Personal WordPress Website**
-        * **Title:** Love Drinking Coffee X Coffee Programming
+        * **Title:** Love Drink Cafe X Coffee Programming
         * **Responsibilities:**
             * Researched SEO, WordPress website development, affiliate marketing, and content marketing techniques.
             * Shared coffee knowledge and personal programming learning experiences.
@@ -42,7 +42,7 @@ Information Certifications
 * [Introduction to Artificial Intelligence (AI)](https://www.coursera.org/account/accomplishments/certificate/D63RJZRDNGC4)
 * EC-Council Certified Incident Handler (ECIH)
 * Cisco Certified Network Associate (CCNA)
-* [Django 2.2 & Python | The Ultimate Web Development Bootcamp](https://www.udemy.com/certificate/UC-DK32X8UO/)
+* [Django 2.2 & Python The Ultimate Web Development Bootcamp](https://www.udemy.com/certificate/UC-DK32X8UO/)
 
 Other Certifications
 ======
