@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "LYX's Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "YUN-HSIN LIU"
 description              : &description "personal description"
 url                      : https://lichtliu.github.io/LYX-academic # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -89,7 +89,7 @@ author:
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : "https://https://lovedrinkcafe.com/"
   bitbucket        :
   codepen          :
   dribbble         :
