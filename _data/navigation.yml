@@ -18,8 +18,8 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "WorkSpace"
-    url: https://lichtliu.github.io/NYCU-LYX/
+  #- title: "WorkSpace"
+    #url: https://lichtliu.github.io/NYCU-LYX/
 
   #- title: "Guide"
     #url: /markdown/
