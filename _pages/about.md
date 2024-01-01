@@ -10,11 +10,11 @@ redirect_from:
 
 👩‍💻I'm the first year gradute student at the National Yang Ming Chiao Tung University.
 
-🔬My research interests are in GNN.
+🔬My research interests are in Machine lLearnin.
 
 💼My current job position is Programming Officer at ROCAF. Focus on improving the Air Force's web application services and promoting overall information system security.
 
-📍I'm also interested playing 🎹piano and 📚reading.
+📍I'm also interested inn playing piano and reading.
 
 
 # Selected Experience
