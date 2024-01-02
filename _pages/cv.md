@@ -17,7 +17,6 @@ Education
 
 Work experience
 ======
-## Work Experience
 
 * **2020.02.04 - Present**
     * **Personal WordPress Website**
@@ -38,7 +37,7 @@ Work experience
 
 Information Certifications
 ======
-## Information Certifications
+
 * [Introduction to Artificial Intelligence (AI)](https://www.coursera.org/account/accomplishments/certificate/D63RJZRDNGC4)
 * EC-Council Certified Incident Handler (ECIH)
 * Cisco Certified Network Associate (CCNA)
@@ -47,7 +46,7 @@ Information Certifications
 Other Certifications
 ======
 * **TOEIC:** 830 points
-* **JLPT N4:**
+* **JLPT N4**
 * **PMA:** Certified Project Assistant, awarded by the Project Management Association of Taiwan
 * **Procurement Certification**
 

@@ -17,6 +17,29 @@ redirect_from:
 📍I'm also interested inn playing piano and reading.
 
 
-# Selected Experience
+## Overview
+ID: 	LichtLiu
+Occupation: 	Software Engineer @ ROCAF.
+Degree: 	M.S. in Cyber security Management, National Yang Ming Chiao Tung University, 2024 (expected)
+Certificates: 	CCNA, CE|H, TOEIC 830/990, JLPT N4
+
+## Reasearch Area
+
+## Publications
 
 ## 🤖Contribution
+
+### ALCPT: Exam platform of ALCPT
+
+* [i-MaxYuan/ALCPT](https://github.com/i-MaxYuan/ALCPT)
+
+> Time： Jul. 2020 - Jul. 2021
+> Type： Semester project of MCNDU 2021
+> Role： Author; Maintainer
+> Tags： Python, Django, MySQL
+> Link： [i-MaxYuan/ALCPT](https://github.com/i-MaxYuan/ALCPT)
+
+The American Language Course Placement Test (ALCPT) exam platform contains the English ability test through different aspects of Grammar, Vocabulary, Listening, and Reading.
+
+
+
