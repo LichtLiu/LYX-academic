@@ -8,25 +8,40 @@ redirect_from:
   - /about.html
 ---
 
-👩‍💻I'm the first year gradute student at the National Yang Ming Chiao Tung University.
+👩‍💻 I'm the first year gradute student at the National Yang Ming Chiao Tung University.
 
-🔬My research interests are in Machine lLearnin.
+🔬 My research interests are in Machine lLearnin.
 
-💼My current job position is Programming Officer at ROCAF. Focus on improving the Air Force's web application services and promoting overall information system security.
+💼 My current job position is Programming Officer at ROCAF. Focus on improving the Air Force's web application services and promoting overall information system security.
 
-📍I'm also interested inn playing piano and reading.
+📍 I'm also interested inn playing piano and reading.
 
 
 ## Overview
 ID: 	LichtLiu
 
-Occupation: 	Software Engineer @ ROCAF. 
+Occupation: 	Software Engineer @ ROCAF
 
 Degree: 	M.S. in Cyber security Management, National Yang Ming Chiao Tung University, 2024 (expected)  
 
-Certificates: 	CCNA, CE|H, TOEIC 830/990, JLPT N4  
+Certificates: 	CCNA, CEIH, TOEIC 830/990, JLPT N4  
+
+## Experience
+
+ROCAF  Data center operations engineer (ROCAF Information Data Center), Jul. 2021 - Dec. 2021
+
+ROCAF  Software Engineer (IT Department), Jan. 2022 - Precent
+
+## Education
+
+M.S. in Cyber security Management, National Yang Ming Chiao Tung University, 2024 (expected)
+
+B.S. in Information Management, Management College, National Defense University, 2021
 
 ## Reasearch Area
+
+* Machine Learning
+* Web Developing
 
 ## Publications
 
