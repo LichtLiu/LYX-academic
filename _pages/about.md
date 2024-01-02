@@ -18,9 +18,12 @@ redirect_from:
 
 
 ## Overview
-ID: 	LichtLiu  
-Occupation: 	Software Engineer @ ROCAF.  
+ID: 	LichtLiu
+
+Occupation: 	Software Engineer @ ROCAF. 
+
 Degree: 	M.S. in Cyber security Management, National Yang Ming Chiao Tung University, 2024 (expected)  
+
 Certificates: 	CCNA, CE|H, TOEIC 830/990, JLPT N4  
 
 ## Reasearch Area
