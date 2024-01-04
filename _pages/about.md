@@ -14,11 +14,11 @@ redirect_from:
 
 💼 My current job position is Software Engineer at ROCAF. Focus on improving the Air Force's web application services and promoting overall information system security.
 
-📍 I'm also interested inn playing piano and reading.
+📍 I'm also interested in playing piano and reading.
 
 
-## Overview
-ID: 	LichtLiu
+## #Overview
+ID: LichtLiu 
 
 Occupation: 	Software Engineer @ ROCAF
 
@@ -26,28 +26,28 @@ Degree: 	M.S. in Cyber security Management, National Yang Ming Chiao Tung Univer
 
 Certificates: 	CCNA, CEIH, TOEIC 830/990, JLPT N4  
 
-## Experience
+## #Experience
 
 ROCAF  Data center operations engineer (ROCAF Information Data Center), Jul. 2021 - Dec. 2021
 
 ROCAF  Software Engineer (IT Department), Jan. 2022 - Precent
 
-## Education
+## #Education
 
 M.S. in Cyber security Management, National Yang Ming Chiao Tung University, 2024 (expected)
 
 B.S. in Information Management, Management College, National Defense University, 2021
 
-## Reasearch Area
+## #Reasearch Area
 
 * Machine Learning
 * Web Developing
 
-## Publications
+## #Publications
 
 ## 🤖Contribution
 
-### ALCPT: Exam platform of ALCPT
+### #ALCPT: Exam platform of ALCPT
 
 
 > Time： Jul. 2020 - Jul. 2021  
