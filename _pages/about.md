@@ -17,7 +17,7 @@ redirect_from:
 📍 I'm also interested in playing piano and reading.
 
 
-## #<span style="color:#fca503">Overview</span>
+## #Overview
 ID:             LichtLiu
 
 Occupation: 	Software Engineer @ ROCAF
@@ -26,28 +26,28 @@ Degree: 	    M.S. in Cyber security Management, National Yang Ming Chiao Tung Un
 
 Certificates: 	CCNA, CEIH, TOEIC 830/990, JLPT N4  
 
-## #<span style="color:#fca503">Experience</span>
-
-ROCAF  Data center operations engineer (ROCAF Information Data Center), Jul. 2021 - Dec. 2021
+## #Experience
 
 ROCAF  Software Engineer (IT Department), Jan. 2022 - Precent
 
-## #<span style="color:#fca503">Education</span>
+ROCAF  Data center operations engineer (ROCAF Information Data Center), Jul. 2021 - Dec. 2021
+
+## #Education
 
 M.S. in Cyber security Management, National Yang Ming Chiao Tung University, 2024 (expected)
 
 B.S. in Information Management, Management College, National Defense University, 2021
 
-## #<span style="color:#fca503">Research Area</span>
+## #Research Area
 
 * Machine Learning
 * Web Developing
 
-## #<span style="color:#fca503">Publication</span>
+## #Publication
 
-## #<span style="color:#fca503">Contribution</span>
+## #Contribution
 
-### #<span style="color:#fca503">ALCPT: Exam platform of ALCPT</span>
+### #ALCPT: Exam platform of ALCPT
 
 
 > Time： Jul. 2020 - Jul. 2021  
