@@ -40,9 +40,9 @@ redirect_from:
 
 ## #Experience
 
-ROCAF  Data center operations engineer (ROCAF Information Data Center), Jul. 2021 - Dec. 2021
-
 ROCAF  Software Engineer (IT Department), Jan. 2022 - Precent
+
+ROCAF  Data center operations engineer (ROCAF Information Data Center), Jul. 2021 - Dec. 2021
 
 ## #Education
 
@@ -50,14 +50,14 @@ M.S. in Cyber security Management, National Yang Ming Chiao Tung University, 202
 
 B.S. in Information Management, Management College, National Defense University, 2021
 
-## #Reasearch Area
+## #Research Area
 
 * Machine Learning
 * Web Developing
 
-## #Publications
+## #Publication
 
-## 🤖Contribution
+## #Contribution
 
 ### #ALCPT: Exam platform of ALCPT
 
