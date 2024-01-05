@@ -19,7 +19,7 @@ redirect_from:
 
 ## #Overview
 
-<table style="font-size: 100%">
+<table style="font-size: 100%; border: none;">
   <tr>
     <td style="border: 0; line-height: 18px; width: 25%"> <b>ID: </b> </td>
     <td style="border: 0; line-height: 18px"> LichtLiu </td>
@@ -36,7 +36,7 @@ redirect_from:
     <td style="border: 0; line-height: 18px; width: 25%"> <b>Certificates: </b> </td>
     <td style="border: 0; line-height: 18px"> CCNA, CE|H, TOEIC 830/990, JLPT N4 </td>
   </tr>
-</table>	
+</table>
 
 ## #Experience
 
