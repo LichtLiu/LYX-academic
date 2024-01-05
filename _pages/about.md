@@ -87,7 +87,7 @@ redirect_from:
     <strong>Role：</strong> Author; Maintainer<br>
     <strong>Tags：</strong> Python, Django, MySQL<br>
     <strong>Link：</strong>
-    <span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL2Flc29waG9yL3ZhbGt5cmll">https://github.com/i-MaxYuan/ALCPT</span></p>
+    <span class="exturl" data-url="https://github.com/i-MaxYuan/ALCPT">https://github.com/i-MaxYuan/ALCPT</span></p>
 </blockquote>
 <p>The American Language Course Placement Test (ALCPT) exam platform contains the English ability test through different aspects of Grammar, Vocabulary, Listening, and Reading.</p>
 <ul>
