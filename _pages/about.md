@@ -59,8 +59,8 @@ redirect_from:
     <td style="border: 0; line-height: 18px"> M.S. in Cyber security Management, 2024 (expected) </td>
   </tr>
   <tr>
-    <td style="border: 0; line-height: 18px"> <b>National Defense University</b> </td>
-    <td style="border: 0; line-height: 18px"> B.S. in Information Management, Management College, 2021 </td>
+    <td style="border: 0; line-height: 18px"> <b>Management College, National Defense University</b> </td>
+    <td style="border: 0; line-height: 18px"> B.S. in Information Management, 2021 </td>
   </tr>
 </table>
 
