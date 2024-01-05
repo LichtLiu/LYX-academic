@@ -18,11 +18,11 @@ redirect_from:
 
 
 ## #Overview
-ID: LichtLiu 
+ID:             LichtLiu
 
 Occupation: 	Software Engineer @ ROCAF
 
-Degree: 	M.S. in Cyber security Management, National Yang Ming Chiao Tung University, 2024 (expected)  
+Degree: 	    M.S. in Cyber security Management, National Yang Ming Chiao Tung University, 2024 (expected)  
 
 Certificates: 	CCNA, CEIH, TOEIC 830/990, JLPT N4  
 
@@ -57,6 +57,3 @@ B.S. in Information Management, Management College, National Defense University,
 > Link： [i-MaxYuan/ALCPT](https://github.com/i-MaxYuan/ALCPT)  
 
 The American Language Course Placement Test (ALCPT) exam platform contains the English ability test through different aspects of Grammar, Vocabulary, Listening, and Reading.
-
-
-
