@@ -84,6 +84,8 @@ Skills
 * Project management
     * PMA
 * Language
+    * Mandarin
+    * English
     * Japanese (JLPT N4)
 * Other
     * SEO
