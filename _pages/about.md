@@ -30,7 +30,7 @@ redirect_from:
   </tr>
   <tr>
     <td style="border: 0; line-height: 18px; width: 25%"> <b>Degree: </b> </td>
-    <td style="border: 0; line-height: 18px"> M.S. in Cyber security Management, National Yang Ming Chiao Tung University, 2024 (expected)  </td>
+    <td style="border: 0; line-height: 18px"> M.S. in Cyber security Management, National Yang Ming Chiao Tung University, 2025 (expected)  </td>
   </tr>
   <tr>
     <td style="border: 0; line-height: 18px; width: 25%"> <b>Certificates: </b> </td>
