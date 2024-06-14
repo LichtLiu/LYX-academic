@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Information Management, Management College, National Defense University, 2021
-* M.S. in Cyber security Management, National Yang Ming Chiao Tung University, 2024 (expected)
+* M.S. in Cyber security Management, National Yang Ming Chiao Tung University, 2025 (expected)
 
 
 Work experience
