@@ -56,7 +56,7 @@ redirect_from:
 <table style="font-size: 100%; border: none;">
   <tr>
     <td style="border: 0; line-height: 18px"> <b>National Yang Ming Chiao Tung University</b> </td>
-    <td style="border: 0; line-height: 18px"> M.S. in Cyber security Management, 2024 (expected) </td>
+    <td style="border: 0; line-height: 18px"> M.S. in Cyber security Management, 2025 (expected) </td>
   </tr>
   <tr>
     <td style="border: 0; line-height: 18px"> <b>Management College, National Defense University</b> </td>
