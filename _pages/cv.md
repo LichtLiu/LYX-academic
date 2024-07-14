@@ -46,7 +46,7 @@ Information Certifications
     * [MVC522 ASP.NET MVC 5 Web Application Disign - Visual C#, UCOM, 2023](https://t3764800.p.clickup-attachments.com/t3764800/5b141f1b-a0d5-46ea-9440-3bb29fb1b8a9/oracle-certificate.jpg?view=open)
     * [Django 2.2 & Python The Ultimate Web Development Bootcamp, Udemy, 2019](https://www.udemy.com/certificate/UC-DK32X8UO/)
 * Cyber Security
-    * [E|CIH (EC-Council Certified Incident Handler), EC-Council, 2022-2025](https://t3764800.p.clickup-attachments.com/t3764800/5f36874b-8dde-4b33-8c7d-cfe2ea920735/ECC5037842691.jpeg?view=open)
+    * [ECIH (EC-Council Certified Incident Handler), EC-Council, 2022-2025](https://t3764800.p.clickup-attachments.com/t3764800/5f36874b-8dde-4b33-8c7d-cfe2ea920735/ECC5037842691.jpeg?view=open)
     * [CCNA (Cisco Certified Network Associate), Cisco, 2021 - 2024](https://t3764800.p.clickup-attachments.com/t3764800/e9c4a176-cf25-458a-9508-340c289b63bc/Cisco%20Certifications.jpeg?view=open) 
 
 Other Certifications
