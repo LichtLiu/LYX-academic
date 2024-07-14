@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-👩‍💻 I'm the first year gradute student at the National Yang Ming Chiao Tung University.
+👩‍💻 I'm a second-year graduate student at National Yang Ming Chiao Tung University.
 
 🔬 My research interests are in Machine Learning.
 
-💼 My current job position is Software Engineer at ROCAF. Focus on improving the Air Force's web application services and promoting overall information system security.
+💼 My current job position is Software Engineer at the ROCAF. Focusing on improving the Air Force's web application services and promoting overall information system security.
 
-📍 I'm also interested in playing piano and reading.
+📍 I'm also interested in playing the piano and reading.
 
 
 <h2 id="overview"><a class="markdownIt-Anchor" href="#overview">#</a> Overview</h2>
@@ -34,7 +34,7 @@ redirect_from:
   </tr>
   <tr>
     <td style="border: 0; line-height: 18px; width: 25%"> <b>Certificates: </b> </td>
-    <td style="border: 0; line-height: 18px"> CCNA, CE|H, TOEIC 830/990, JLPT N4 </td>
+    <td style="border: 0; line-height: 18px"> CCNA, E|CIH, TOEIC 830/990, JLPT N4 </td>
   </tr>
 </table>
 
