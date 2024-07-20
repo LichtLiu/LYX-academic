@@ -10,7 +10,7 @@ redirect_from:
 
 👩‍💻 I'm a second-year graduate student at National Yang Ming Chiao Tung University.
 
-🔬 My research interests are in Machine Learning.
+🔬 My research interests are in Deep Learning.
 
 💼 My current job position is Software Engineer at the ROCAF. Focusing on improving the Air Force's web application services and promoting overall information system security.
 
