@@ -36,6 +36,7 @@ redirect_from:
 
 | Information Technology | Other |
 |------------------------|-------|
+| • [Generative AI with Large Language Models, Coursera, 2024](https://coursera.org/share/32a3342640ea17246b2a96aa6a3ff9b3) |  |
 | • [Learn Hugging Face BootCamp, Udemy, 2024](https://www.udemy.com/certificate/UC-673eadde-0a6b-4883-8c46-03d9804670a0/) | • [TOEIC 830, 2019](https://t3764800.p.clickup-attachments.com/t3764800/2bb2f7e6-ce9f-4d2d-ad6f-a219128ab5aa/Screen%20Shot%202024-07-14%20at%203.23.07%20PM.png?view=open) |
 | • [Introduction to AI, Coursera, 2024](https://www.coursera.org/account/accomplishments/certificate/D63RJZRDNGC4) | • [JLPT N4, 2021](https://t3764800.p.clickup-attachments.com/t3764800/96d7469a-0b10-4d85-8d1a-159cb983f33c/image.png?view=open) |
 | • [Oracle Database 19C: SQL Workshop, 2023](https://t3764800.p.clickup-attachments.com/t3764800/5b141f1b-a0d5-46ea-9440-3bb29fb1b8a9/oracle-certificate.jpg?view=open) | • [PMA (Project Management Assistant), NPMA, 2019](https://t3764800.p.clickup-attachments.com/t3764800/44a2f1e1-6b0e-4d39-aded-fdb486d04dc8/Screen%20Shot%202024-07-14%20at%203.11.07%20PM.png?view=open) |

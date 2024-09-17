@@ -70,7 +70,7 @@ redirect_from:
     <li>Web Developing</li>
     <li>Cyber Security</li>
     <li>Microservices</li>
-    <li>Machine Learning</li>
+    <li>Deep Learning</li>
 </ul>
 
 
@@ -89,5 +89,4 @@ redirect_from:
     <span class="exturl" data-url="https://github.com/i-MaxYuan/ALCPT">i-MaxYuan/ALCPT</span></p>
 </blockquote>
 <p>The American Language Course Placement Test (ALCPT) exam platform contains the English ability test through different aspects of Grammar, Vocabulary, Listening, and Reading.</p>
-<ul>
-</ul>
+
