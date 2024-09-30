@@ -114,7 +114,8 @@ author:
   weibo            :
   xing             :
   youtube          :
-  wikipedia        :
+  wikipedia        : "https://huggingface.co/LichtLiu"
+
 
 
 # Reading Files
