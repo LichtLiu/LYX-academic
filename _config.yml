@@ -90,6 +90,7 @@ author:
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : "https://lovedrinkcafe.com/"
+  uri              : "https://huggingface.co/LichtLiu"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -114,8 +115,7 @@ author:
   weibo            :
   xing             :
   youtube          :
-  wikipedia        : "https://huggingface.co/LichtLiu"
-
+  wikipedia        : 
 
 
 # Reading Files
