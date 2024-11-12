@@ -36,6 +36,7 @@ redirect_from:
 
 | Information Technology | Other |
 |------------------------|-------|
+|  • [PNLP Python Chinese Natural Language Processing (NLP) Deep Learning Expert Course, 2024](https://t3764800.p.clickup-attachments.com/t3764800/bd14c453-b3c2-44ec-82e8-d3d20909200a/image.png?view=open)   |  |
 |  • [BDPY Python data processing practical drill, 2024](https://t3764800.p.clickup-attachments.com/t3764800/6607a159-1640-495d-9b54-f923d66cee97/BDPY.jpg?view=open)   | • [TOEIC 830, 2019](https://t3764800.p.clickup-attachments.com/t3764800/2bb2f7e6-ce9f-4d2d-ad6f-a219128ab5aa/Screen%20Shot%202024-07-14%20at%203.23.07%20PM.png?view=open) |
 | • [Generative AI with Large Language Models, Coursera, 2024](https://coursera.org/share/32a3342640ea17246b2a96aa6a3ff9b3) | • [JLPT N4, 2021](https://t3764800.p.clickup-attachments.com/t3764800/96d7469a-0b10-4d85-8d1a-159cb983f33c/image.png?view=open)  |
 | • [Learn Hugging Face BootCamp, Udemy, 2024](https://www.udemy.com/certificate/UC-673eadde-0a6b-4883-8c46-03d9804670a0/) |  • [PMA (Project Management Assistant), NPMA, 2019](https://t3764800.p.clickup-attachments.com/t3764800/44a2f1e1-6b0e-4d39-aded-fdb486d04dc8/Screen%20Shot%202024-07-14%20at%203.11.07%20PM.png?view=open) |
