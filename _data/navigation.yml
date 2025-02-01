@@ -1,30 +1,31 @@
 # main links links
 main:
+  #- title: "Publications"
+    #url: /publications/
+
+  #- title: "Talks"
+    #url: /talks/
+
+  #- title: "Teaching"
+    #url: /teaching/
+
+  #- title: "Portfolio"
+    #url: /portfolio/
+
+  #- title: "Blog Posts"
+    #url: /year-archive/
+
   - title: "CV"
-    children:
-      - title: "English"
-        url: /cv/en/
-      - title: "中文"
-        url: /zh/zh-tw/
+    url: /cv-en/
+  - title: "履歷"
+    url: /cv-zh-tw/
+  
 
-  - title: "Documentation"
-    children:
-      - title: "DL & ML"
-        url: https://doc.clickup.com/3764800/p/h/3jwj0-5418/fe4d7a502d511a8
-      - title: "WorkSpace"
-        url: https://doc.clickup.com/3764800/p/h/3jwj0-6538/533350575d136f3
+  - title: "DL & ML"
+    url: https://doc.clickup.com/3764800/p/h/3jwj0-5418/fe4d7a502d511a8
 
-  #- title: "Resources"
-  #  children:
-  #    - title: "Publications"
-  #      url: /publications/
-  #    - title: "Talks"
-  #      url: /talks/
-  #    - title: "Teaching"
-  #      url: /teaching/
-  #    - title: "Portfolio"
-  #      url: /portfolio/
-  #    - title: "Blog Posts"
-  #      url: /year-archive/
-  #    - title: "Guide"
-  #      url: /markdown/
+  - title: "WorkSpace"
+    url: https://doc.clickup.com/3764800/p/h/3jwj0-6538/533350575d136f3
+
+  #- title: "Guide"
+    #url: /markdown/
