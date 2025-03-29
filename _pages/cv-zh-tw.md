@@ -84,8 +84,8 @@ redirect_from:
 - **安全工具**：Wireshark、Nmap
 
 ### **網頁開發**
-- **前端**：HTML5、CSS3、JavaScript、React基礎、Bootstrap
-- **後端**：Django、ASP.NET MVC、RESTful API設計、JWT認證
+- **前端**：HTML5、CSS3、JavaScript、Bootstrap
+- **後端**：Django、ASP.NET MVC、RESTful API設計
 - **資料庫**：MySQL、MS SQL Server、Oracle
 - **DevOps**：CI/CD原則、Git工作流程、Docker容器
 
@@ -97,7 +97,7 @@ redirect_from:
 *主要開發者 | 2020年7月 - 2021年7月*
 - 開發全面性英語能力評估平台，測試語法、詞彙、聽力及閱讀能力
 - 使用Python、Django框架及MySQL資料庫實現全端解決方案
-- GitHub：github.com/i-MaxYuan/ALCPT
+- GitHub：[i-MaxYuan/ALCPT](https://github.com/i-MaxYuan/ALCPT)
 
 ### **個人WordPress網站**
 *創建者與維護者 | 2020年2月 - 至今*

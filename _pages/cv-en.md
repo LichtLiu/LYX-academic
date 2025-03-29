@@ -95,7 +95,7 @@ Results-driven **Cybersecurity and AI Specialist** with military precision and t
 - Share coffee knowledge and personal programming learning experiences
 
 ### ALCPT: Exam Platform for American Language Course Placement Test
-*[github.com/i-MaxYuan/ALCPT](https://github.com/i-MaxYuan/ALCPT)* | *Jul 2020 - Jul 2021*
+*[i-MaxYuan/ALCPT](https://github.com/i-MaxYuan/ALCPT)* | *Jul 2020 - Jul 2021*
 - Developed comprehensive English assessment platform testing Grammar, Vocabulary, Listening, and Reading
 - Implemented full-stack solution using **Python, Django, and MySQL**
 - Designed scalable architecture supporting multiple concurrent test sessions
