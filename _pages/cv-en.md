@@ -37,17 +37,17 @@ Results-driven **Cybersecurity and AI Specialist** with military precision and t
 
 ### Web Developer and Maintenance Specialist
 **Republic of China Air Force (ROCAF)** | *Jan 2023 - Present*
-- ✓ **Maintain mission-critical systems** with **99.9% uptime** for 20+ 以上的系統
-- ✓ Implemented SDLC best practices resulting in **30% improvement** in development efficiency
-- ✓ Participated in the development of **20+ web systems**
-- ✓ Enhanced system security protocols through vulnerability assessment and penetration testing
+- **Maintain mission-critical systems** with **99.9% uptime** for 20+ systems
+- Implemented SDLC best practices resulting in **30% improvement** in development efficiency
+- Participated in the development of **20+ web systems**
+- Enhanced system security protocols through vulnerability assessment and penetration testing
 
 
 ### Junior Information Center Support Specialist
 **Republic of China Air Force (ROCAF)** | *Jul 2022 - Dec 2022*
-- ✓ Managed enterprise data center operations supporting **30,000+ military personnel**
-- ✓ Supported deployment of critical infrastructure (**NetApp, Checkpoint, F5**)
-- ✓ Achieved **99.5% system availability** through proactive monitoring
+- Managed enterprise data center operations supporting **30,000+ military personnel**
+- Supported deployment of critical infrastructure (**NetApp, Checkpoint, F5**)
+- Achieved **99.5% system availability** through proactive monitoring
 
 ---
 
@@ -95,7 +95,7 @@ Results-driven **Cybersecurity and AI Specialist** with military precision and t
 - Share coffee knowledge and personal programming learning experiences
 
 ### ALCPT: Exam Platform for American Language Course Placement Test
-*[GitHub Repository](https://github.com/i-MaxYuan/ALCPT)* | *Jul 2020 - Jul 2021*
+*[github.com/i-MaxYuan/ALCPT](https://github.com/i-MaxYuan/ALCPT)* | *Jul 2020 - Jul 2021*
 - Developed comprehensive English assessment platform testing Grammar, Vocabulary, Listening, and Reading
 - Implemented full-stack solution using **Python, Django, and MySQL**
 - Designed scalable architecture supporting multiple concurrent test sessions
@@ -136,7 +136,7 @@ Results-driven **Cybersecurity and AI Specialist** with military precision and t
 
 ---
 
-  ## LANGUAGE PROFICIENCY
+## LANGUAGE PROFICIENCY
 
 - **English:** Professional working proficiency
   - [TOEIC 800 (2022)](https://t3764800.p.clickup-attachments.com/t3764800/64128f81-6a59-48a8-9947-c5a280a5efa2/image.png?view=open)

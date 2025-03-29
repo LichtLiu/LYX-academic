@@ -132,7 +132,9 @@ redirect_from:
 
 
 ## 語言能力
-- **英語**：專業工作程度（[多益800分，2022年](https://t3764800.p.clickup-attachments.com/t3764800/64128f81-6a59-48a8-9947-c5a280a5efa2/image.png?view=open)）
+- **英語**：專業工作程度
+  - [多益800分，2022年](https://t3764800.p.clickup-attachments.com/t3764800/64128f81-6a59-48a8-9947-c5a280a5efa2/image.png?view=open)
+  - [多益830分，2019年](https://t3764800.p.clickup-attachments.com/t3764800/2bb2f7e6-ce9f-4d2d-ad6f-a219128ab5aa/Screen%20Shot%202024-07-14%20at%203.23.07%20PM.png?view=open)
 - **日語**：基礎程度（[JLPT N4，2021年](https://t3764800.p.clickup-attachments.com/t3764800/96d7469a-0b10-4d85-8d1a-159cb983f33c/image.png?view=open)）
 - **中文**：母語
 
