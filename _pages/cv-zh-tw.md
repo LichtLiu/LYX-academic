@@ -11,16 +11,14 @@ redirect_from:
 
 
 ## 劉昀昕
-*網路安全與AI專家 | 網頁開發者 | 軍事IT專業人員*  
+*程式設計暨系統架構師*  
 📧 joy9517538246@gmail.com | 📱 +886-97873125 | 🔗 [LinkedIn](https://www.linkedin.com/in/yun-hsin-liu/?locale=en_US)  
 🌐 [Love Drink Cafe X Coffee Programming](https://lovedrinkcafe.com)
 
 ---
 
-## 專業簡介
-具備軍事精確性與系統維護、網頁開發和新興AI技術專長的**網路安全與人工智慧專家**。
-經驗豐富於維護關鍵任務系統，確保**99.9%的系統運行時間**並實施穩健的安全協定。
-結合實用的IT基礎設施知識與NLP和LLM微調的尖端AI能力。
+## 關於我
+熱衷於人工智慧與程式開發設 計，富有團隊協作經驗。結合IT 基礎設施知識及系統開發建制之 實務經驗，提升空軍資訊系統安 全及組織經營效率
 
 ---
 
@@ -38,27 +36,30 @@ redirect_from:
 
 ## 專業經驗
 
-### **網頁開發與維護專員**
-*中華民國空軍 | 2023年1月 - 至今*
+### **程式設計官**
+*空軍通航資聯隊技訓中心 | 2023年1月 - 至今*
 
-- 擔任空軍關鍵任務服務系統的**首席工程師**，確保**20+以上**的系統**99.9%的運行時間**
-- 實施SDLC最佳實務，使開發效率**提升30%**
-- 參與開發**20+以上的網頁系統**
-- 透過漏洞評估和滲透測試強化系統安全協定
+- 負責空軍雲端案系統建置案設計系統備份備援計畫、附載平衡及自動化部屬流程 腳本撰寫。協助主計、督察、通資、政戰等部門建置20套以上之MIS系統，確保 系統99.9%的運行時間。
+- 負責開發、維管、研改及漏洞修補空軍安全鑑定管理雲、空軍心輔作業平台、空 軍入口網、空軍AD使用者資訊維護平台等4項30,000人以上使用之網頁系統
+- 負責空軍機房及網路架構之教育訓練，內容包含NetApp StorageGRID、 Checkpoint防火牆、F5負載平衡器、VMware vCenter
+- 負責全端系統開發、資料庫運作及OWASP網頁應用程式安全教育訓練，內容包含 ASP.NET Framework WebForm、ASP.NET Framework MVC、Oracle 19C、 Microsoft MSSQL、Git、OWASP TOP 10
+- 協助進行跨部門系統整合介接安全評估及提供建議
+- 根據空軍網路架構協助各部門系統執行網站潛在風險漏洞評估，提供主動防禦建 議，強化系統安全。
+- 參與空軍AI創新小組，協助硬體設備需求評估及技術可行性評估，同時協助導入 影像辨識及LLM、RAG等技術
 
-### **初級資訊中心支援專員**
-*中華民國空軍 | 2022年7月 - 2022年12月*
+### **硬體設計官**
+*空軍通航資聯隊技訓中心 | 2021年7月 - 2021年12月*
 
-- 管理支援**30,000+軍事人員**的企業級資料中心運作
-- 協助部署關鍵基礎設施，包括NetApp儲存、Checkpoint防火牆和F5負載平衡
-- 透過主動監控和維護達成**99.5%的系統可用性**
-
+- 管理支援30,000人以上企業級資料中心運作
+- 協助空軍雲端機房建置關鍵基礎設施，包括NetApp StorageGRID、Checkpoint 防火牆、F5負載平衡器、VMware vCenter
+- 了解資訊機房內 ArcSight SIEM、Cisco IPS、PaloAlto WAF網路防護架構及運作 原理
+- 透過主動監控和維護達成99.5%的系統可用性
 ---
 
 ## 學歷
 
-### **網路安全管理碩士**
-*國立陽明交通大學 | 2023 - 2025 (預計)*
+### **國防資安管理碩士在職專班**
+*國立陽明交通大學 | 2023 - 2026 (預計)*
 - 研究重點：企業級智能模型之工具增強框架設計與實作
 
 ### **資訊管理學士**
@@ -68,35 +69,12 @@ redirect_from:
 
 ---
 
-## 擴展技術技能
-
-### **AI與機器學習**
-- **自然語言處理**：文本分類、情感分析、命名實體識別
-- **深度學習框架**：PyTorch
-- **LLM實施**：提示工程、微調、RAG系統、向量資料庫
-- **神經網路**：CNN、RNN、LSTM架構用於資料分析
-- **資料處理**：特徵工程、資料清理、ETL管道
-
-### **網路安全**
-- **威脅情報**：MITRE ATT&CK框架、威脅狩獵、IoC識別
-- **漏洞管理**：CVSS評分、補丁管理、漏洞掃描
-- **事件應變**：NIST框架、數位鑑識、惡意軟體分析
-- **安全工具**：Wireshark、Nmap
-
-### **網頁開發**
-- **前端**：HTML5、CSS3、JavaScript、Bootstrap
-- **後端**：Django、ASP.NET MVC、RESTful API設計
-- **資料庫**：MySQL、MS SQL Server、Oracle
-- **DevOps**：CI/CD原則、Git工作流程、Docker容器
-
----
-
 ## 技術專案
 
 ### **ALCPT考試平台**
 *主要開發者 | 2020年7月 - 2021年7月*
 - 開發全面性英語能力評估平台，測試語法、詞彙、聽力及閱讀能力
-- 使用Python、Django框架及MySQL資料庫實現全端解決方案
+- 基於Django框架及MySQL資料庫實執行專案實作
 - GitHub：[i-MaxYuan/ALCPT](https://github.com/i-MaxYuan/ALCPT)
 
 ### **個人WordPress網站**
@@ -117,6 +95,7 @@ redirect_from:
 - [人工智慧導論，Coursera，2024年](https://coursera.org/share/f1a5c3b6f7af9e53039f5b05e20f6bdb)
 
 ### **網路安全與IT**
+- [CompTIA PenTest+，CompTIA，2025年]()
 - [ECIH（EC-Council認證事件處理員），EC-Council，2022-2025年](https://t3764800.p.clickup-attachments.com/t3764800/5f36874b-8dde-4b33-8c7d-cfe2ea920735/ECC5037842691.jpeg?view=open)
 - [CCNA（思科認證網路助理），Cisco，2021-2024年](https://t3764800.p.clickup-attachments.com/t3764800/e9c4a176-cf25-458a-9508-340c289b63bc/Cisco%20Certifications.jpeg?view=open)
 - [Oracle資料庫19C：SQL工作坊，Oracle，2023年](https://t3764800.p.clickup-attachments.com/t3764800/5b141f1b-a0d5-46ea-9440-3bb29fb1b8a9/oracle-certificate.jpg?view=open)
