@@ -95,7 +95,7 @@ redirect_from:
 - [人工智慧導論，Coursera，2024年](https://coursera.org/share/f1a5c3b6f7af9e53039f5b05e20f6bdb)
 
 ### **網路安全與IT**
-- [CompTIA PenTest+，CompTIA，2025年]()
+- [CompTIA PenTest+，CompTIA，2025年](https://t3764800.p.clickup-attachments.com/t3764800/0db3a5b3-926d-47a0-86d5-20082a87e2dc/image.png?view=open)
 - [ECIH（EC-Council認證事件處理員），EC-Council，2022-2025年](https://t3764800.p.clickup-attachments.com/t3764800/5f36874b-8dde-4b33-8c7d-cfe2ea920735/ECC5037842691.jpeg?view=open)
 - [CCNA（思科認證網路助理），Cisco，2021-2024年](https://t3764800.p.clickup-attachments.com/t3764800/e9c4a176-cf25-458a-9508-340c289b63bc/Cisco%20Certifications.jpeg?view=open)
 - [Oracle資料庫19C：SQL工作坊，Oracle，2023年](https://t3764800.p.clickup-attachments.com/t3764800/5b141f1b-a0d5-46ea-9440-3bb29fb1b8a9/oracle-certificate.jpg?view=open)
