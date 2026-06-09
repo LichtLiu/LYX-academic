@@ -124,7 +124,7 @@ Looking for software engineer roles — particularly interested in **enterprise 
 
 - **AZ-104** — Microsoft Certified: Azure Administrator Associate, Microsoft, 2025 ([cert](https://learn.microsoft.com/en-us/users/yunhsinliu-2381/credentials/eabb2b9beae2ea4b?ref=https%3A%2F%2Fwww.linkedin.com%2F))
 - **CompTIA PenTest+** — CompTIA, 2025 ([cert](https://t3764800.p.clickup-attachments.com/t3764800/0db3a5b3-926d-47a0-86d5-20082a87e2dc/image.png?view=open))
-- **ECIH** — EC-Council Certified Incident Handler, EC-Council, 2022 ([cert](https://t3764800.p.clickup-attachments.com/t3764800/5f36874b-8dde-4b33-8c7d-cfe2ea920735/ECC5037842691.jpeg?view=open))
+- **ECIH** — EC-Council Certified Incident Handler, EC-Council, 2022 ([cert](https://t3764800.p.clickup-attachments.com/t3764800/be8e2684-23e7-4f51-8c45-09a50610c4b2/ECC-ECIH-ANSI-Certificate.jpg?view=open))
 - **CCNA** — Cisco Certified Network Associate, Cisco, 2021 ([cert](https://t3764800.p.clickup-attachments.com/t3764800/e9c4a176-cf25-458a-9508-340c289b63bc/Cisco%20Certifications.jpeg?view=open))
 
 ---
