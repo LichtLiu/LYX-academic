@@ -60,7 +60,7 @@ Looking for software engineer roles — particularly interested in **enterprise 
 ### M.S. in National Defense Cybersecurity Management
 **National Yang Ming Chiao Tung University, [College of Computer Science](https://www.ccs.nycu.edu.tw/department/dpcm)** | *2023 – 2026*
 
-- **Thesis**: Implementation of an AI Routing System for Military Academy Tasks ([details](/publication/2026-ai-routing-system))
+- **Thesis**: Implementation of an AI Routing System for Military Academy Tasks ([details]({{ base_path }}/publication/2026-ai-routing-system))
 - **Advisor**: Prof. Yu-Sung Wu
 
 ### B.S. in Information Management
@@ -81,7 +81,7 @@ Looking for software engineer roles — particularly interested in **enterprise 
 - Achieved **81.74% overall routing accuracy** and **40%+ quality lift** on tool-calling and hybrid tasks vs baseline.
 - Designed for high-security environments where cloud LLM APIs are not permitted.
 
-[Full details →](/publication/2026-ai-routing-system)
+[Full details →]({{ base_path }}/publication/2026-ai-routing-system)
 
 ---
 
@@ -100,7 +100,7 @@ Looking for software engineer roles — particularly interested in **enterprise 
 - **DevOps**: Docker multi-stage builds, Azure Container Registry, Azure Container Apps, Azure DevOps Pipelines (Test → Build → Deploy).
 - **Cloud architecture**: deployed in **westus2** to bypass Anthropic API's Asia IP restriction; Azure PostgreSQL Flexible Server, Azure Blob Storage, Google Cloud TTS.
 
-[Full details →](/portfolio/learning-platform)
+[Full details →]({{ base_path }}/portfolio/learning-platform)
 
 ---
 
@@ -167,4 +167,4 @@ Looking for software engineer roles — particularly interested in **enterprise 
 - **Silver Medal** — [Military Academy Cybersecurity Competition](https://tw.news.yahoo.com/%E8%BB%8D%E6%A0%A1%E7%9B%83%E7%B6%B2%E8%B7%AF%E5%AE%89%E5%85%A8%E7%AB%B6%E8%B3%BD-%E7%AE%A1%E7%90%86%E5%AD%B8%E9%99%A2%E7%8D%B2%E4%BD%B3%E7%B8%BE-160000203.html) (representing College of Management), 2020
 - **Valedictorian** — National Defense University, College of Management, Class of 2021
 
-📄 [中文版履歷](/cv-zh-tw/)
+📄 [中文版履歷]({{ base_path }}/cv-zh-tw/)

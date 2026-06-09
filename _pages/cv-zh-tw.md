@@ -57,7 +57,7 @@ author_profile: true
 ### 國防資安管理碩士在職專班
 **[國立陽明交通大學 資訊學院](https://www.ccs.nycu.edu.tw/department/dpcm)** | *2023 – 2026*
 
-- **論文**：針對軍事院校體系任務之人工智慧路由系統實作（[詳細介紹](/publication/2026-ai-routing-system)）
+- **論文**：針對軍事院校體系任務之人工智慧路由系統實作（[詳細介紹]({{ base_path }}/publication/2026-ai-routing-system)）
 - **指導教授**：吳育松 教授
 
 ### 資訊管理學系 學士
@@ -78,7 +78,7 @@ author_profile: true
 - 整體路由準確性達 **81.74%**，工具調用與混合任務品質較基準提升 **40%+**。
 - 鎖定不允許使用雲端 LLM API 的高資安要求情境。
 
-[完整介紹 →](/publication/2026-ai-routing-system)
+[完整介紹 →]({{ base_path }}/publication/2026-ai-routing-system)
 
 ---
 
@@ -97,7 +97,7 @@ author_profile: true
 - **DevOps**：Docker 多階段建置 + Azure Container Registry + Azure Container Apps + Azure DevOps Pipelines 全自動 CI/CD。
 - **雲端架構**：westus2 區域部署、Azure PostgreSQL Flexible Server、Azure Blob Storage、Google Cloud TTS。
 
-[完整介紹 →](/portfolio/learning-platform)
+[完整介紹 →]({{ base_path }}/portfolio/learning-platform)
 
 ---
 
@@ -164,4 +164,4 @@ author_profile: true
 - **銀牌** — [軍校盃網路安全競賽](https://tw.news.yahoo.com/%E8%BB%8D%E6%A0%A1%E7%9B%83%E7%B6%B2%E8%B7%AF%E5%AE%89%E5%85%A8%E7%AB%B6%E8%B3%BD-%E7%AE%A1%E7%90%86%E5%AD%B8%E9%99%A2%E7%8D%B2%E4%BD%B3%E7%B8%BE-160000203.html)（代表管理學院），2020
 - **畢業生代表** — 國防大學管理學院，2021 屆
 
-📄 [English CV](/cv-en/)
+📄 [English CV]({{ base_path }}/cv-en/)

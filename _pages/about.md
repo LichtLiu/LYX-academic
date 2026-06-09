@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+{% include base_path %}
+
 I'm a software engineer based in Taipei, currently serving as a **Senior Software Engineering Officer at the Office of the Deputy Chief of the General Staff for Communications, Electronics and Information (ODCGS/CEI), General Staff Headquarters, Ministry of National Defense**, where I build geospatial data-visualization and command-display tooling (a TypeScript/Leaflet.js Power BI custom visual, Android plugins, and a real-time web display). Before this, across three years in the ROC Air Force's communications branch, I led the design and delivery of 20+ enterprise MIS systems serving 30,000+ users at 99.9% availability.
 
 I recently completed my **M.S. in National Defense Cybersecurity Management at National Yang Ming Chiao Tung University (College of Computer Science)**, where my thesis explored **offline-deployed LLM systems** combining RAG, function calling, and intelligent routing for high-security environments.
@@ -20,8 +22,8 @@ I'll be transitioning out of the military in **March 2027**, and I'm **looking f
 
 ## What I'm Working On
 
-- 🚀 **[Generative-AI English Teaching SaaS](https://learningplatform-frontend-dev.bravefield-45f8f415.westus2.azurecontainerapps.io/)** — solo project, live on Azure ([details](/portfolio/learning-platform))
-- 🎓 **Master's thesis** — AI Routing System for Military Academy Tasks ([details](/publication/2026-ai-routing-system))
+- 🚀 **[Generative-AI English Teaching SaaS](https://learningplatform-frontend-dev.bravefield-45f8f415.westus2.azurecontainerapps.io/)** — solo project, live on Azure ([details]({{ base_path }}/portfolio/learning-platform))
+- 🎓 **Master's thesis** — AI Routing System for Military Academy Tasks ([details]({{ base_path }}/publication/2026-ai-routing-system))
 - 📚 Interview preparation: LeetCode, system design, and behavioral practice
 
 ## What Drives Me
@@ -57,4 +59,4 @@ Outside of work I read, play the piano, and occasionally write technical posts a
   </tr>
 </table>
 
-📄 [Read my CV](/cv-en/) · 🌐 [中文版](/cv-zh-tw/)
+📄 [Read my CV]({{ base_path }}/cv-en/) · 🌐 [中文版]({{ base_path }}/cv-zh-tw/)
