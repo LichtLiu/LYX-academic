@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "YUN-HSIN LIU"
+  name             : "Joy Liu (YUN-HSIN LIU)"
   avatar           : "profile.png"
-  bio              : "Staying Enthusiastic"
+  bio              : "Software Engineer | Applied AI | Azure"
   location         : "Taipei, Taiwan"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "joy9517538246@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : "https://lovedrinkcafe.com/"
   uri              : "https://huggingface.co/LichtLiu"
@@ -103,7 +103,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "yun-hsin-liu"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
