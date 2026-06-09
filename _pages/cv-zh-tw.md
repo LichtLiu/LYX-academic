@@ -1,126 +1,167 @@
 ---
 layout: archive
-title: "履歷表"
+title: "履歷"
 permalink: /cv-zh-tw/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
 {% include base_path %}
 
+## 劉昀昕 (Joy Liu)
+*軟體工程師 | 應用 AI | Azure | Django + ASP.NET*
 
-## 劉昀昕
-*程式設計暨系統架構師*  
-📧 joy9517538246@gmail.com | 📱 +886-97873125 | 🔗 [LinkedIn](https://www.linkedin.com/in/yun-hsin-liu/?locale=en_US)  
-🌐 [Love Drink Cafe X Coffee Programming](https://lovedrinkcafe.com)
+📧 joy9517538246@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/yun-hsin-liu/?locale=en_US) | 🌐 [部落格](https://lovedrinkcafe.com)
 
 ---
 
 ## 關於我
-熱衷於人工智慧與程式開發設 計，富有團隊協作經驗。結合IT 基礎設施知識及系統開發建制之 實務經驗，提升空軍資訊系統安 全及組織經營效率
+曾於空軍通信資訊單位擔任程式設計官三年，主導 20+ 套企業 MIS 系統設計與開發，支援 30,000+ 帳號、達成 **99.9% 系統可用性**；現於國防部擔任高級資訊程式官，負責地理空間資料視覺化工具開發。
+
+專長後端開發（C#/ASP.NET、Python/Django）與全端架構，熟悉 Azure 雲端部署與 CI/CD 流程。獨立開發並維運生成式 AI 教學 SaaS 平台（Django + React + Claude API），碩士論文聚焦離線部署 LLM 路由系統，具備從**學術理論到產品實作**之雙軌經驗。
+
+正在尋找**軟體工程師**職位，特別對**企業軟體**與**應用 AI** 領域感興趣。
 
 ---
 
-## 核心技術能力
+## 工作經歷
 
-| **網路安全與基礎架構** | **AI與開發** | **網頁與雲端技術** |
-|:----------------------------------|:---------------------|:----------------------------|
-| ✓ 系統安全與事件處理 | ✓ NLP與LLM微調 | ✓ Django與ASP.NET MVC |
-| ✓ 網路基礎架構 (CCNA) | ✓ Python資料處理 | ✓ 全端開發 |
-| ✓ Checkpoint防火牆管理 | ✓ HuggingFace模型 | ✓ VMware虛擬化 |
-| ✓ 滲透測試 | ✓ 神經網路 | ✓ NetApp儲存解決方案 |
-| ✓ 事件應變 (ECIH) | ✓ 多模態LLM | ✓ F5負載平衡 |
+### 高級資訊程式官
+**國防部 通信電子資訊參謀次長室** | *2026 年 1 月 – 現今*
 
----
+- 開發內部**地理空間資料視覺化工具**，包含以 TypeScript + Leaflet.js 打造的 **Power BI 自訂視覺效果**：互動地圖、分層篩選、標記叢集、範圍涵蓋繪製、模糊搜尋（Fuse.js）、框選 / 套索區域篩選，並透過 pbiviz 工具鏈封裝。
+- 開發延伸地理空間態勢平台（ATAK）之 **Android（Java/Gradle）外掛**，環境為 AGP 8.13 / compileSdk 36 / JDK 17。
+- 建置即時**指揮顯示**網頁應用程式。
+- 提供軟體架構與安全開發實務之技術諮詢。
 
-## 專業經驗
+### 程式設計官
+**空軍通信資訊聯隊技訓中心** | *2022 年 1 月 – 2025 年 12 月*
 
-### **程式設計官**
-*空軍通航資聯隊技訓中心 | 2023年1月 - 至今*
+- 主導 **20+ 套企業 MIS 系統**的設計與開發，技術棧 ASP.NET MVC + MSSQL/Oracle，支援 **30,000+ 帳號**日常運作，達成 **99.9% 系統可用性**。
+- 獨立設計並開發核心網頁系統（簽核管理、入口網站、AD 認證整合模組），涵蓋 front-end (Razor/JavaScript) 至 back-end (C#/SQL) 全鏈路。
+- 負責新需求的系統架構評估與技術選型，制定 API 規範、資料庫 Schema、安全防護策略，並產出技術可行性報告。
+- 將企業安全機制（NetApp、Checkpoint、F5、VMware）整合至應用層，依 **OWASP Top 10** 標準執行程式碼安全審查與漏洞修補。
+- 主導內部 **AI 創新計畫**，評估 LLM + RAG 技術導入內部知識管理場景，完成 POC 並提出系統整合方案。
+- 跨部門協作教育訓練：規劃並執行 ASP.NET、Web Forms、Oracle、MSSQL、PyTorch、CI/CD、Docker、Git 等技術培訓。
 
-- 負責空軍雲端案系統建置案設計系統備份備援計畫、附載平衡及自動化部屬流程 腳本撰寫。協助主計、督察、通資、政戰等部門建置20套以上之MIS系統，確保 系統99.9%的運行時間。
-- 負責開發、維管、研改及漏洞修補空軍安全鑑定管理雲、空軍心輔作業平台、空 軍入口網、空軍AD使用者資訊維護平台等4項30,000人以上使用之網頁系統
-- 負責空軍機房及網路架構之教育訓練，內容包含NetApp StorageGRID、 Checkpoint防火牆、F5負載平衡器、VMware vCenter
-- 負責全端系統開發、資料庫運作及OWASP網頁應用程式安全教育訓練，內容包含 ASP.NET Framework WebForm、ASP.NET Framework MVC、Oracle 19C、 Microsoft MSSQL、Git、OWASP TOP 10
-- 協助進行跨部門系統整合介接安全評估及提供建議
-- 根據空軍網路架構協助各部門系統執行網站潛在風險漏洞評估，提供主動防禦建 議，強化系統安全。
-- 參與空軍AI創新小組，協助硬體設備需求評估及技術可行性評估，同時協助導入 影像辨識及LLM、RAG等技術
+### 硬體設計官
+**空軍通信資訊聯隊技訓中心** | *2021 年 7 月 – 2021 年 12 月*
 
-### **硬體設計官**
-*空軍通航資聯隊技訓中心 | 2021年7月 - 2021年12月*
+- 協助規劃支援 30,000+ 使用者的企業網路基礎架構，包含 NetApp StorageGRID、Checkpoint 防火牆、F5 LB、VMware vCenter 等核心元件之架構設計與部署規劃。
+- 評估並整合資訊安全產品（ArcSight SIEM、Cisco IPS、PaloAlto WAF）至企業網路架構，協助系統可用性提升至 **99.5%**。
+- 產出系統運作原理文件與架構評估報告，提供開發團隊整合應用層所需之基礎設施規格。
 
-- 管理支援30,000人以上企業級資料中心運作
-- 協助空軍雲端機房建置關鍵基礎設施，包括NetApp StorageGRID、Checkpoint 防火牆、F5負載平衡器、VMware vCenter
-- 了解資訊機房內 ArcSight SIEM、Cisco IPS、PaloAlto WAF網路防護架構及運作 原理
-- 透過主動監控和維護達成99.5%的系統可用性
 ---
 
 ## 學歷
 
-### **國防資安管理碩士在職專班**
-*國立陽明交通大學 | 2023 - 2026 (預計)*
-- 研究重點：企業級智能模型之工具增強框架設計與實作
+### 國防資安管理碩士在職專班
+**[國立陽明交通大學 資訊學院](https://www.ccs.nycu.edu.tw/department/dpcm)** | *2023 – 2026*
 
-### **資訊管理學士**
-*國防大學管理學院 | 2017 - 2021*
-- **班級排名第一名（畢業生代表）**，學業成績**87.55/100分**
-- **第二名**，[2020年軍校盃網路安全競賽](https://tw.news.yahoo.com/%E8%BB%8D%E6%A0%A1%E7%9B%83%E7%B6%B2%E8%B7%AF%E5%AE%89%E5%85%A8%E7%AB%B6%E8%B3%BD-%E7%AE%A1%E7%90%86%E5%AD%B8%E9%99%A2%E7%8D%B2%E4%BD%B3%E7%B8%BE-160000203.html)
+- **論文**：針對軍事院校體系任務之人工智慧路由系統實作（[詳細介紹](/publication/2026-ai-routing-system)）
+- **指導教授**：吳育松 教授
 
----
+### 資訊管理學系 學士
+**國防大學管理學院** | *2017 – 2021*
 
-## 技術專案
-
-### **ALCPT考試平台**
-*主要開發者 | 2020年7月 - 2021年7月*
-- 開發全面性英語能力評估平台，測試語法、詞彙、聽力及閱讀能力
-- 基於Django框架及MySQL資料庫實執行專案實作
-- GitHub：[i-MaxYuan/ALCPT](https://github.com/i-MaxYuan/ALCPT)
-
-### **個人WordPress網站**
-*創建者與維護者 | 2020年2月 - 至今*
-- [Love Drink Cafe X Coffee Programming](https://lovedrinkcafe.com)
-- 實施SEO、WordPress開發、聯盟行銷和內容行銷技術
-- 分享關於程式設計和AI實施策略的技術見解
+- **班級排名**：班級第一名畢業（畢業生代表），學業成績 87.55/100
+- **[2020 年軍校盃網路安全競賽](https://tw.news.yahoo.com/%E8%BB%8D%E6%A0%A1%E7%9B%83%E7%B6%B2%E8%B7%AF%E5%AE%89%E5%85%A8%E7%AB%B6%E8%B3%BD-%E7%AE%A1%E7%90%86%E5%AD%B8%E9%99%A2%E7%8D%B2%E4%BD%B3%E7%B8%BE-160000203.html)** 銀牌（代表管理學院）
 
 ---
 
-## 認證與專業發展
+## 碩士論文
 
-### **AI與機器學習**
-- [神經網路與深度學習，Coursera，2025年](https://www.coursera.org/account/accomplishments/verify/IL6YVLQ7VK6U)
-- [PNLP Python中文自然語言處理（NLP）深度學習專家課程，2024年](https://t3764800.p.clickup-attachments.com/t3764800/bd14c453-b3c2-44ec-82e8-d3d20909200a/image.png?view=open)
-- [大型語言模型生成式AI，Coursera，2024年](https://coursera.org/share/32a3342640ea17246b2a96aa6a3ff9b3)
-- [Learn Hugging Face訓練營，Udemy，2024年](https://www.udemy.com/certificate/UC-673eadde-0a6b-4883-8c46-03d9804670a0/)
-- [人工智慧導論，Coursera，2024年](https://coursera.org/share/f1a5c3b6f7af9e53039f5b05e20f6bdb)
+### 針對軍事院校體系任務之人工智慧路由系統實作
+*指導教授：吳育松 教授，國立陽明交通大學*
 
-### **網路安全與IT**
-- [CompTIA PenTest+，CompTIA，2025年](https://t3764800.p.clickup-attachments.com/t3764800/0db3a5b3-926d-47a0-86d5-20082a87e2dc/image.png?view=open)
-- [ECIH（EC-Council認證事件處理員），EC-Council，2022-2025年](https://t3764800.p.clickup-attachments.com/t3764800/5f36874b-8dde-4b33-8c7d-cfe2ea920735/ECC5037842691.jpeg?view=open)
-- [CCNA（思科認證網路助理），Cisco，2021-2024年](https://t3764800.p.clickup-attachments.com/t3764800/e9c4a176-cf25-458a-9508-340c289b63bc/Cisco%20Certifications.jpeg?view=open)
-- [Oracle資料庫19C：SQL工作坊，Oracle，2023年](https://t3764800.p.clickup-attachments.com/t3764800/5b141f1b-a0d5-46ea-9440-3bb29fb1b8a9/oracle-certificate.jpg?view=open)
-- [MVC522 ASP.NET MVC 5網頁應用程式設計，2023年](https://t3764800.p.clickup-attachments.com/t3764800/db5dd9fe-407c-4b1b-8ff7-4e4a322a6cde/ASP.NET%20MVC%205.jpg?view=open)
-- [BDPY Python資料處理實務演練，2024年](https://t3764800.p.clickup-attachments.com/t3764800/6607a159-1640-495d-9b54-f923d66cee97/BDPY.jpg?view=open)
-- [Django 2.2 & Python網頁開發訓練營，Udemy，2019年](https://www.udemy.com/certificate/UC-DK32X8UO/)
+- 整合 **RAG、Function Calling、智能路由**三大模組，採 **TAIDE-LX-8B / Ministral-8B** 實作完全離線部署的 LLM 系統。
+- 以 **260 個測試案例**驗證（純 RAG、純工具、混合場景）。
+- 整體路由準確性達 **81.74%**，工具調用與混合任務品質較基準提升 **40%+**。
+- 鎖定不允許使用雲端 LLM API 的高資安要求情境。
 
-### **專案管理與其他**
-- [PMA（專案管理助理），NPMA，2019年](https://t3764800.p.clickup-attachments.com/t3764800/44a2f1e1-6b0e-4d39-aded-fdb486d04dc8/Screen%20Shot%202024-07-14%20at%203.11.07%20PM.png?view=open)
-- [採購證照，行政院公共工程委員會，2021年](https://t3764800.p.clickup-attachments.com/t3764800/95e6babd-de9c-4cce-9aa5-7f0e2016cf09/%E6%8E%A1%E8%B3%BC%E8%AD%89%E7%85%A7.jpg?view=open)
+[完整介紹 →](/publication/2026-ai-routing-system)
 
 ---
 
+## 個人專案
+
+### 生成式 AI 英語教學 SaaS 平台
+*獨立開發 (Solo Project)，2024 – 現今*
+
+[**線上 Demo**](https://learningplatform-frontend-dev.bravefield-45f8f415.westus2.azurecontainerapps.io/) (westus2 Azure Container Apps)
+
+- 獨立開發針對台灣 108 課綱英語教師之 SaaS 平台，從需求發想、架構設計、開發、測試、部署到維運皆為一人完成。
+- **後端**：Django 4.2 + DRF + PostgreSQL，13+ 個 App 模組，70+ pytest 測試覆蓋核心邏輯。
+- **前端**：React 18 + TypeScript + Vite + TanStack Query + React Router 7。
+- **AI 整合**：透過 Anthropic Claude API 實作 SSE Streaming 即時串流教材生成，並設計三層快取機制降低 API 成本。
+- **商業邏輯**：TapPay 金流訂閱、Google OAuth、JWT 雙 token (15min/7d)、SM-2 間隔重複演算法、三層 feature gate。
+- **DevOps**：Docker 多階段建置 + Azure Container Registry + Azure Container Apps + Azure DevOps Pipelines 全自動 CI/CD。
+- **雲端架構**：westus2 區域部署、Azure PostgreSQL Flexible Server、Azure Blob Storage、Google Cloud TTS。
+
+[完整介紹 →](/portfolio/learning-platform)
+
+---
+
+## 技術專長
+
+| 類別 | 內容 |
+|:---|:---|
+| **程式語言** | Python、C#、TypeScript、JavaScript、Java、SQL |
+| **後端框架** | Django (DRF)、ASP.NET MVC、ASP.NET Web Forms |
+| **前端框架** | React 18、Vite、TanStack Query、React Router |
+| **資料視覺化與地理空間** | Power BI 自訂視覺效果 (pbiviz)、Leaflet.js、Android 外掛 (Gradle) |
+| **資料庫** | PostgreSQL、MSSQL、Oracle、SQLite |
+| **雲端與 DevOps** | Azure (Container Apps、ACR、Blob、PostgreSQL Flexible)、Azure DevOps Pipelines、Docker、Git |
+| **AI / ML** | Claude API、LLM、RAG、Function Calling、PyTorch、TAIDE-LX-8B、向量資料庫、Computer Vision |
+| **測試與品質** | pytest（70+ 測試）、Vitest、ESLint、TypeScript strict mode |
+| **其他** | OAuth2、JWT、SSE Streaming、SM-2 演算法、OWASP Top 10、SQL 效能調校 |
+
+---
+
+## 專業證照
+
+- **AZ-104** — Microsoft Certified: Azure Administrator Associate, Microsoft, 2025（[證書](https://learn.microsoft.com/en-us/users/yunhsinliu-2381/credentials/eabb2b9beae2ea4b?ref=https%3A%2F%2Fwww.linkedin.com%2F)）
+- **CompTIA PenTest+** — CompTIA, 2025（[證書](https://t3764800.p.clickup-attachments.com/t3764800/0db3a5b3-926d-47a0-86d5-20082a87e2dc/image.png?view=open)）
+- **ECIH** — EC-Council 認證事件處理員, EC-Council, 2022（[證書](https://t3764800.p.clickup-attachments.com/t3764800/5f36874b-8dde-4b33-8c7d-cfe2ea920735/ECC5037842691.jpeg?view=open)）
+- **CCNA** — Cisco 認證網路助理, Cisco, 2021（[證書](https://t3764800.p.clickup-attachments.com/t3764800/e9c4a176-cf25-458a-9508-340c289b63bc/Cisco%20Certifications.jpeg?view=open)）
+
+---
+
+## 進修課程
+
+**AI 與機器學習**
+
+- [神經網路與深度學習](https://www.coursera.org/account/accomplishments/verify/IL6YVLQ7VK6U), Coursera, 2025
+- [大型語言模型生成式 AI](https://coursera.org/share/32a3342640ea17246b2a96aa6a3ff9b3), Coursera, 2024
+- [Learn Hugging Face BootCamp](https://www.udemy.com/certificate/UC-673eadde-0a6b-4883-8c46-03d9804670a0/), Udemy, 2024
+- [人工智慧導論](https://coursera.org/share/f1a5c3b6f7af9e53039f5b05e20f6bdb), Coursera, 2024
+- [PNLP Python 中文自然語言處理專家課程](https://t3764800.p.clickup-attachments.com/t3764800/bd14c453-b3c2-44ec-82e8-d3d20909200a/image.png?view=open), 2024
+
+**軟體與資料**
+
+- [MVC522 ASP.NET MVC 5 網頁應用程式設計](https://t3764800.p.clickup-attachments.com/t3764800/db5dd9fe-407c-4b1b-8ff7-4e4a322a6cde/ASP.NET%20MVC%205.jpg?view=open), SYSTEX, 2023
+- [Oracle Database 19C：SQL Workshop](https://t3764800.p.clickup-attachments.com/t3764800/5b141f1b-a0d5-46ea-9440-3bb29fb1b8a9/oracle-certificate.jpg?view=open), Oracle, 2023
+- [BDPY Python 資料處理實務演練](https://t3764800.p.clickup-attachments.com/t3764800/6607a159-1640-495d-9b54-f923d66cee97/BDPY.jpg?view=open), 2024
+- [Django 2.2 & Python 網頁開發訓練營](https://www.udemy.com/certificate/UC-DK32X8UO/), Udemy, 2019
+- Docker Containers 與 Kubernetes 系統管理, SYSTEX, 2025
+
+**專案管理**
+
+- [專案管理助理 (PMA)](https://t3764800.p.clickup-attachments.com/t3764800/44a2f1e1-6b0e-4d39-aded-fdb486d04dc8/Screen%20Shot%202024-07-14%20at%203.11.07%20PM.png?view=open), NPMA, 2019
+- [政府採購證照](https://t3764800.p.clickup-attachments.com/t3764800/95e6babd-de9c-4cce-9aa5-7f0e2016cf09/%E6%8E%A1%E8%B3%BC%E8%AD%89%E7%85%A7.jpg?view=open), 行政院公共工程委員會, 2021
+
+---
 
 ## 語言能力
-- **英語**：專業工作程度
-  - [多益800分，2022年](https://t3764800.p.clickup-attachments.com/t3764800/64128f81-6a59-48a8-9947-c5a280a5efa2/image.png?view=open)
-  - [多益830分，2019年](https://t3764800.p.clickup-attachments.com/t3764800/2bb2f7e6-ce9f-4d2d-ad6f-a219128ab5aa/Screen%20Shot%202024-07-14%20at%203.23.07%20PM.png?view=open)
-- **日語**：基礎程度（[JLPT N4，2021年](https://t3764800.p.clickup-attachments.com/t3764800/96d7469a-0b10-4d85-8d1a-159cb983f33c/image.png?view=open)）
-- **中文**：母語
+
+- **中文** — 母語
+- **英文** — 專業工作程度（[多益 800，2022](https://t3764800.p.clickup-attachments.com/t3764800/64128f81-6a59-48a8-9947-c5a280a5efa2/image.png?view=open)）
+- **日文** — 基礎程度（[JLPT N4，2021](https://t3764800.p.clickup-attachments.com/t3764800/96d7469a-0b10-4d85-8d1a-159cb983f33c/image.png?view=open)）
 
 ---
 
-## 其他技能與活動
-- **技術領導能力**：領導跨功能團隊進行系統部署
-- **批判性思考**：為複雜系統挑戰開發創新解決方案
-- **解決問題能力**：實施高效故障排除方法
-- **溝通能力**：向非技術利害關係人解釋技術概念
+## 競賽與榮譽
+
+- **銀牌** — [軍校盃網路安全競賽](https://tw.news.yahoo.com/%E8%BB%8D%E6%A0%A1%E7%9B%83%E7%B6%B2%E8%B7%AF%E5%AE%89%E5%85%A8%E7%AB%B6%E8%B3%BD-%E7%AE%A1%E7%90%86%E5%AD%B8%E9%99%A2%E7%8D%B2%E4%BD%B3%E7%B8%BE-160000203.html)（代表管理學院），2020
+- **畢業生代表** — 國防大學管理學院，2021 屆
+
+📄 [English CV](/cv-en/)

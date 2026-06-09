@@ -1,92 +1,60 @@
 ---
 permalink: /
-title: "👋Hello there, I'm Joy!"
-excerpt: "About me"
+title: "👋 Hi, I'm Joy Liu — Software Engineer"
+excerpt: "Software engineer focused on enterprise applications, applied generative AI, and cloud-native systems."
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-👩‍💻 I'm a second-year graduate student at National Yang Ming Chiao Tung University.
+I'm a software engineer based in Taipei, currently serving as a **Senior Software Engineering Officer at the Office of the Deputy Chief of the General Staff for Communications, Electronics and Information (ODCGS/CEI), General Staff Headquarters, Ministry of National Defense**, where I build geospatial data-visualization and command-display tooling (a TypeScript/Leaflet.js Power BI custom visual, Android plugins, and a real-time web display). Before this, across three years in the ROC Air Force's communications branch, I led the design and delivery of 20+ enterprise MIS systems serving 30,000+ users at 99.9% availability.
 
-🔬 My research interests are in Deep Learning.
+I recently completed my **M.S. in National Defense Cybersecurity Management at National Yang Ming Chiao Tung University (College of Computer Science)**, where my thesis explored **offline-deployed LLM systems** combining RAG, function calling, and intelligent routing for high-security environments.
 
-💼 My current job position is Software Engineer at the ROCAF. Focusing on improving the Air Force's web application services and promoting overall information system security.
+In parallel, I designed, built, and operate a **generative-AI SaaS platform** (Django + React + Claude API) end-to-end — covering payment integration, OAuth, multi-service container deployment, and CI/CD on Azure.
 
-📍 I'm also interested in playing the piano and reading.
+I'll be transitioning out of the military in **March 2027**, and I'm **looking for software engineer roles** — particularly interested in enterprise software and applied AI.
 
+---
 
-<h2 id="overview"><a class="markdownIt-Anchor" href="#overview">#</a> Overview</h2>
+## What I'm Working On
 
-<table style="font-size: 100%; border: none;">
-  <tr>
-    <td style="border: 0; line-height: 18px; width: 25%"> <b>ID: </b> </td>
-    <td style="border: 0; line-height: 18px"> LichtLiu </td>
-  </tr>
-  <tr>
-    <td style="border: 0; line-height: 18px; width: 25%"> <b>Occupation: </b> </td>
-    <td style="border: 0; line-height: 18px"> Software Engineer @ ROCAF </td>
-  </tr>
-  <tr>
-    <td style="border: 0; line-height: 18px; width: 25%"> <b>Degree: </b> </td>
-    <td style="border: 0; line-height: 18px"> M.S. in Cyber security Management, National Yang Ming Chiao Tung University, 2025 (expected)  </td>
-  </tr>
-  <tr>
-    <td style="border: 0; line-height: 18px; width: 25%"> <b>Certificates: </b> </td>
-    <td style="border: 0; line-height: 18px"> CCNA, E|CIH, TOEIC 830/990, JLPT N4 </td>
-  </tr>
-</table>
+- 🚀 **[Generative-AI English Teaching SaaS](https://learningplatform-frontend-dev.bravefield-45f8f415.westus2.azurecontainerapps.io/)** — solo project, live on Azure ([details](/portfolio/learning-platform))
+- 🎓 **Master's thesis** — AI Routing System for Military Academy Tasks ([details](/publication/2026-ai-routing-system))
+- 📚 Interview preparation: LeetCode, system design, and behavioral practice
 
-<h2 id="experience"><a class="markdownIt-Anchor" href="#experience">#</a> Experience</h2>
+## What Drives Me
+
+I enjoy building systems that real people use, especially when they sit at the intersection of **enterprise engineering** and **applied AI**. My day-to-day swings between writing C# for legacy MIS modernization and shipping Python/TypeScript code for my SaaS — and I like that span.
+
+Outside of work I read, play the piano, and occasionally write technical posts about whatever I just shipped.
+
+---
+
+## Quick Overview
 
 <table style="font-size: 100%; border: none;">
   <tr>
-    <td style="border: 0; line-height: 18px; width: 25%"> <b>ROCAF</b> </td>
-    <td style="border: 0; line-height: 18px"> ROCAF  Software Engineer (IT Department), Jan. 2022 - Present</td>
+    <td style="border: 0; line-height: 18px; width: 30%"> <b>Role: </b> </td>
+    <td style="border: 0; line-height: 18px"> Senior Software Engineering Officer @ ODCGS/CEI, MND </td>
   </tr>
   <tr>
-    <td style="border: 0; line-height: 18px; width: 25%"> <b>ROCAF</b> </td>
-    <td style="border: 0; line-height: 18px"> Data center operations engineer (ROCAF Information Data Center), Jul. 2021 - Dec. 2021</td>
+    <td style="border: 0; line-height: 18px; width: 30%"> <b>Education: </b> </td>
+    <td style="border: 0; line-height: 18px"> M.S. in National Defense Cybersecurity Management, <a href="https://www.ccs.nycu.edu.tw/department/dpcm">NYCU College of Computer Science</a>, 2026 </td>
+  </tr>
+  <tr>
+    <td style="border: 0; line-height: 18px; width: 30%"> <b>Undergrad: </b> </td>
+    <td style="border: 0; line-height: 18px"> B.S. in Information Management, National Defense University, 2021 </td>
+  </tr>
+  <tr>
+    <td style="border: 0; line-height: 18px; width: 30%"> <b>Certifications: </b> </td>
+    <td style="border: 0; line-height: 18px"> AZ-104, CompTIA PenTest+, ECIH, CCNA, TOEIC 800, JLPT N4 </td>
+  </tr>
+  <tr>
+    <td style="border: 0; line-height: 18px; width: 30%"> <b>Languages: </b> </td>
+    <td style="border: 0; line-height: 18px"> Chinese (native), English (TOEIC 800), Japanese (JLPT N4) </td>
   </tr>
 </table>
 
-
-<h2 id="education"><a class="markdownIt-Anchor" href="#education">#</a> Education</h2>
-<table style="font-size: 100%; border: none;">
-  <tr>
-    <td style="border: 0; line-height: 18px"> <b>National Yang Ming Chiao Tung University</b> </td>
-    <td style="border: 0; line-height: 18px"> M.S. in Cyber security Management, 2025 (expected) </td>
-  </tr>
-  <tr>
-    <td style="border: 0; line-height: 18px"> <b>Management College, National Defense University</b> </td>
-    <td style="border: 0; line-height: 18px"> B.S. in Information Management, 2021 </td>
-  </tr>
-</table>
-
-
-<h2 id="research-area"><a class="markdownIt-Anchor" href="#research-area">#</a> Research Area</h2>
-<ul>
-    <li>Web Developing</li>
-    <li>Cyber Security</li>
-    <li>Microservices</li>
-    <li>Deep Learning</li>
-</ul>
-
-
-<h2 id="publications"><a class="markdownIt-Anchor" href="#publications">#</a> Publications</h2>
-
-<h2 id="contribution"><a class="markdownIt-Anchor" href="#contribution">#</a> Contribution</h2>
-
-<h3 id="alcpt">
-<a class="markdownIt-Anchor" href="#alcpt">#</a> ALCPT: Exam platform of ALCPT</h3>
-<blockquote>
-    <p><strong>Time：</strong> Jul. 2020 - Jul. 2021  <br>
-    <strong>Type：</strong> Semester project of MCNDU 2021  <br>
-    <strong>Role：</strong> Author; Maintainer<br>
-    <strong>Tags：</strong> Python, Django, MySQL<br>
-    <strong>Link：</strong>
-    <span class="exturl" data-url="https://github.com/i-MaxYuan/ALCPT">i-MaxYuan/ALCPT</span></p>
-</blockquote>
-<p>The American Language Course Placement Test (ALCPT) exam platform contains the English ability test through different aspects of Grammar, Vocabulary, Listening, and Reading.</p>
-
+📄 [Read my CV](/cv-en/) · 🌐 [中文版](/cv-zh-tw/)

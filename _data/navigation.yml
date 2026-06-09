@@ -1,34 +1,19 @@
-# main links links
+# main links
 main:
-  #- title: "Publications"
-    #url: /publications/
+  - title: "CV"
+    url: /cv-en/
 
-  #- title: "Talks"
-    #url: /talks/
+  - title: "履歷"
+    url: /cv-zh-tw/
 
-  #- title: "Teaching"
-    #url: /teaching/
+  - title: "Publications"
+    url: /publications/
 
-  #- title: "Portfolio"
-    #url: /portfolio/
-
-  #- title: "Blog Posts"
-    #url: /year-archive/
-
-  #- title: "CV"
-  # url: /cv-en/
-  # - title: "簡歷"
-  #  url: /cv-zh-tw/
-
-  - title: "Resume"
-    url: https://resume-of-yun-hsin-liu.my.canva.site/
-  
+  - title: "Portfolio"
+    url: /portfolio/
 
   - title: "DL & ML"
     url: https://doc.clickup.com/3764800/p/h/3jwj0-5418/fe4d7a502d511a8
 
   - title: "WorkSpace"
     url: https://doc.clickup.com/3764800/p/h/3jwj0-6538/533350575d136f3
-
-  #- title: "Guide"
-    #url: /markdown/
