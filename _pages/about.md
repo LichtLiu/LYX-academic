@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-I'm a software engineer based in Taipei, currently serving as a **Senior Software Engineering Officer at the Office of the Deputy Chief of the General Staff for Communications, Electronics and Information (ODCGS/CEI), General Staff Headquarters, Ministry of National Defense**, where I build geospatial data-visualization and command-display tooling (a TypeScript/Leaflet.js Power BI custom visual, Android plugins, and a real-time web display). Before this, across three years in the ROC Air Force's communications branch, I led the design and delivery of 20+ enterprise MIS systems serving 30,000+ users at 99.9% availability.
+I'm a software engineer based in Taipei, currently serving as a **Senior Software Engineering Officer at the Office of the Deputy Chief of the General Staff for Communications, Electronics and Information (ODCGS/CEI), General Staff Headquarters, Ministry of National Defense**, where I build geospatial data-visualization and command-display tooling (a TypeScript/Leaflet.js Power BI custom visual and a real-time web display). Before this, across three years in the ROC Air Force's communications branch, I coordinated the delivery of 20+ enterprise MIS systems serving 30,000+ users at 99.9% availability — bridging vendors and internal systems and gatekeeping code quality and performance.
 
 I recently completed my **M.S. in National Defense Cybersecurity Management at National Yang Ming Chiao Tung University (College of Computer Science)**, where my thesis explored **offline-deployed LLM systems** combining RAG, function calling, and intelligent routing for high-security environments.
 

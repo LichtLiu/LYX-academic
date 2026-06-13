@@ -15,7 +15,7 @@ author_profile: true
 ---
 
 ## 關於我
-曾於空軍通信資訊單位擔任程式設計官三年，主導 20+ 套企業 MIS 系統設計與開發，支援 30,000+ 帳號、達成 **99.9% 系統可用性**；現於國防部擔任高級資訊程式官，負責地理空間資料視覺化工具開發。
+曾於空軍通信資訊單位擔任程式設計官三年，協調 20+ 套企業 MIS 系統之委外開發並負責功能與效能把關，支援 30,000+ 帳號、達成 **99.9% 系統可用性**；現於國防部擔任高級資訊程式官，負責地理空間資料視覺化工具開發。
 
 專長後端開發（C#/ASP.NET、Python/Django）與全端架構，熟悉 Azure 雲端部署與 CI/CD 流程。獨立開發並維運生成式 AI 教學 SaaS 平台（Django + React + Claude API），碩士論文聚焦離線部署 LLM 路由系統，具備從**學術理論到產品實作**之雙軌經驗。
 
@@ -29,26 +29,24 @@ author_profile: true
 **國防部 通信電子資訊參謀次長室** | *2026 年 1 月 – 現今*
 
 - 開發內部**地理空間資料視覺化工具**，包含以 TypeScript + Leaflet.js 打造的 **Power BI 自訂視覺效果**：互動地圖、分層篩選、標記叢集、範圍涵蓋繪製、模糊搜尋（Fuse.js）、框選 / 套索區域篩選，並透過 pbiviz 工具鏈封裝。
-- 開發延伸地理空間態勢平台（ATAK）之 **Android（Java/Gradle）外掛**，環境為 AGP 8.13 / compileSdk 36 / JDK 17。
 - 建置即時**指揮顯示**網頁應用程式。
 - 提供軟體架構與安全開發實務之技術諮詢。
 
 ### 程式設計官
 **空軍通信資訊聯隊技訓中心** | *2022 年 1 月 – 2025 年 12 月*
 
-- 主導 **20+ 套企業 MIS 系統**的設計與開發，技術棧 ASP.NET MVC + MSSQL/Oracle，支援 **30,000+ 帳號**日常運作，達成 **99.9% 系統可用性**。
-- 獨立設計並開發核心網頁系統（簽核管理、入口網站、AD 認證整合模組），涵蓋 front-end (Razor/JavaScript) 至 back-end (C#/SQL) 全鏈路。
+- 協調 **20+ 套企業 MIS 系統**的委外開發（技術棧 ASP.NET MVC + MSSQL/Oracle），支援 **30,000+ 帳號**、達成 **99.9% 系統可用性**；於廠商開發期間擔任技術與內部系統之銜接窗口，負責功能、程式碼與效能把關，並執行內部備援架構評估。
+- 獨立設計並開發核心網頁系統（人員機核、員工心輔、AD 認證整合模組），涵蓋 front-end (Razor/JavaScript) 至 back-end (C#/SQL) 全鏈路。
 - 負責新需求的系統架構評估與技術選型，制定 API 規範、資料庫 Schema、安全防護策略，並產出技術可行性報告。
 - 將企業安全機制（NetApp、Checkpoint、F5、VMware）整合至應用層，依 **OWASP Top 10** 標準執行程式碼安全審查與漏洞修補。
-- 主導內部 **AI 創新計畫**，評估 LLM + RAG 技術導入內部知識管理場景，完成 POC 並提出系統整合方案。
-- 跨部門協作教育訓練：規劃並執行 ASP.NET、Web Forms、Oracle、MSSQL、PyTorch、CI/CD、Docker、Git 等技術培訓。
+- 運用先前機房實務經驗，為系統課同仁規劃並執行企業基礎架構教育訓練，內容涵蓋 F5 負載平衡、NetApp StorageGRID、VMware 虛擬化與內部網路架構，並闡述其與課內應用系統之整合關聯。
 
 ### 硬體設計官
 **空軍通信資訊聯隊技訓中心** | *2021 年 7 月 – 2021 年 12 月*
 
 - 協助規劃支援 30,000+ 使用者的企業網路基礎架構，包含 NetApp StorageGRID、Checkpoint 防火牆、F5 LB、VMware vCenter 等核心元件之架構設計與部署規劃。
 - 評估並整合資訊安全產品（ArcSight SIEM、Cisco IPS、PaloAlto WAF）至企業網路架構，協助系統可用性提升至 **99.5%**。
-- 產出系統運作原理文件與架構評估報告，提供開發團隊整合應用層所需之基礎設施規格。
+
 
 ---
 
@@ -105,10 +103,10 @@ author_profile: true
 
 | 類別 | 內容 |
 |:---|:---|
-| **程式語言** | Python、C#、TypeScript、JavaScript、Java、SQL |
+| **程式語言** | Python、C#、TypeScript、JavaScript、SQL |
 | **後端框架** | Django (DRF)、ASP.NET MVC、ASP.NET Web Forms |
 | **前端框架** | React 18、Vite、TanStack Query、React Router |
-| **資料視覺化與地理空間** | Power BI 自訂視覺效果 (pbiviz)、Leaflet.js、Android 外掛 (Gradle) |
+| **資料視覺化與地理空間** | Power BI 自訂視覺效果 (pbiviz)、Leaflet.js |
 | **資料庫** | PostgreSQL、MSSQL、Oracle、SQLite |
 | **雲端與 DevOps** | Azure (Container Apps、ACR、Blob、PostgreSQL Flexible)、Azure DevOps Pipelines、Docker、Git |
 | **AI / ML** | Claude API、LLM、RAG、Function Calling、PyTorch、TAIDE-LX-8B、向量資料庫、Computer Vision |

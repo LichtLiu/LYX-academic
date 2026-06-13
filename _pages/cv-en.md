@@ -18,7 +18,7 @@ redirect_from:
 
 ## Professional Summary
 
-Software engineer with a B.S. in Information Management and an M.S. in National Defense Cybersecurity Management. Spent three years as a software engineering officer in the ROC Air Force's communications branch, leading the design and delivery of 20+ enterprise MIS systems serving 30,000+ users at **99.9% availability**, and currently serve as a Senior Software Engineering Officer at the Ministry of National Defense, building geospatial data-visualization tooling.
+Software engineer with a B.S. in Information Management and an M.S. in National Defense Cybersecurity Management. Spent three years as a software engineering officer in the ROC Air Force's communications branch, coordinating the vendor-led delivery of 20+ enterprise MIS systems serving 30,000+ users at **99.9% availability** while gatekeeping code quality and performance, and currently serve as a Senior Software Engineering Officer at the Ministry of National Defense, building geospatial data-visualization tooling.
 
 Strong in backend development (C#/ASP.NET, Python/Django), full-stack architecture, and Azure cloud deployment with CI/CD. Independently built and operates a generative-AI SaaS platform (Django + React + Claude API). Master's thesis bridges academic research with production engineering through an offline-deployed LLM routing system.
 
@@ -32,19 +32,17 @@ Looking for software engineer roles — particularly interested in **enterprise 
 **Office of the Deputy Chief of the General Staff for Communications, Electronics and Information (ODCGS/CEI), General Staff Headquarters, Ministry of National Defense** | *Jan 2026 – Present*
 
 - Develop internal **geospatial data-visualization tooling**, including a **Power BI custom visual** built in TypeScript + Leaflet.js — interactive maps with layered filtering, marker clustering, coverage-range rendering, fuzzy search (Fuse.js), and polygon/lasso region selection, packaged via the pbiviz toolchain.
-- Engineer **Android (Java/Gradle)** plugins extending a geospatial situational-awareness platform (ATAK), working across AGP 8.13 / compileSdk 36 / JDK 17.
 - Build a real-time **operational command-display** web application.
 - Advise on software architecture and secure development practices across the office.
 
 ### Software Engineering Officer
 **ROC Air Force (ROCAF) – Communications Information Wing, Technical Training Center** | *Jan 2022 – Dec 2025*
 
-- Led the design and delivery of **20+ enterprise MIS systems** (ASP.NET MVC + MSSQL/Oracle) serving **30,000+ daily users** at **99.9% availability**.
-- Independently developed core web applications (approval workflow, intranet portal, AD authentication module) end-to-end from front-end (Razor/JavaScript) to back-end (C#/SQL).
+- Coordinated the **vendor-led delivery of 20+ enterprise MIS systems** (ASP.NET MVC + MSSQL/Oracle) serving **30,000+ users** at **99.9% availability** — served as the technical bridge between vendors and internal systems, gatekeeping functionality, code quality, and performance, and evaluating internal backup/redundancy architecture.
+- Independently developed core web applications (personnel review module, employee counseling platform, AD authentication module) end-to-end from front-end (Razor/JavaScript) to back-end (C#/SQL).
 - Owned architecture review and tech-stack selection for new requirements; produced API specs, database schemas, security strategies, and technical feasibility reports for leadership.
 - Integrated enterprise security (NetApp, Checkpoint, F5, VMware) at the application layer; performed **OWASP Top 10** code reviews and vulnerability remediation.
-- Led an internal AI innovation initiative: evaluated LLM + RAG for an internal knowledge-management use case, delivered a working POC and an integration proposal.
-- Planned and delivered cross-team training on ASP.NET, Web Forms, Oracle, MSSQL, PyTorch, CI/CD, Docker, and Git.
+- Leveraged hands-on data-center experience to design and deliver enterprise-infrastructure training for the systems section — covering F5 load balancing, NetApp StorageGRID, VMware virtualization, and internal network architecture, and how each underpins the section's application systems.
 
 ### Infrastructure Design Officer
 **Republic of China Air Force (ROCAF) – Communications Technical Training Center** | *Jul 2021 – Dec 2021*
@@ -108,10 +106,10 @@ Looking for software engineer roles — particularly interested in **enterprise 
 
 | Category | Skills |
 |:---|:---|
-| **Languages** | Python, C#, TypeScript, JavaScript, Java, SQL |
+| **Languages** | Python, C#, TypeScript, JavaScript, SQL |
 | **Backend** | Django (DRF), ASP.NET MVC, ASP.NET Web Forms |
 | **Frontend** | React 18, Vite, TanStack Query, React Router |
-| **Data Viz & Geospatial** | Power BI Custom Visuals (pbiviz), Leaflet.js, Android plugin (Gradle) |
+| **Data Viz & Geospatial** | Power BI Custom Visuals (pbiviz), Leaflet.js |
 | **Database** | PostgreSQL, MSSQL, Oracle, SQLite |
 | **Cloud & DevOps** | Azure (Container Apps, ACR, Blob, PostgreSQL Flexible), Azure DevOps Pipelines, Docker, Git |
 | **AI / ML** | Claude API, LLM, RAG, Function Calling, PyTorch, TAIDE-LX-8B, Vector Database, Computer Vision |
